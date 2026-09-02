@@ -130,8 +130,8 @@ print("Output:", plan)
 ```
 
 ## Output :
+<img width="503" height="187" alt="image" src="https://github.com/user-attachments/assets/fd8e03cd-37f8-42f3-a542-4879d4720431" />
 
-<img width="799" height="147" alt="image" src="https://github.com/user-attachments/assets/ca11d0fa-66ea-4bfe-8640-75f85976a5b6" />
 
 
 ## Result:
